@@ -12,13 +12,13 @@ This project implements a **1-bit Full Adder using universal NAND gates** in VHD
 
 ## Project Files
 
-- `NAND_gate.vhd` – Basic NAND gate
-- `AND_gate.vhd` – AND gate using NAND gates
-- `OR_gate.vhd` – OR gate using NAND gates
-- `XOR_gate.vhd` – XOR gate using NAND gates
-- `Half_Adder.vhd` – Half Adder module
-- `Full_Adder.vhd` – Top-level Full Adder module
-- `Full_Adder_tb.vhd` – Testbench for Full Adder
+- `NANDGate.vhd` – Basic NAND gate
+- `ANDGate.vhd` – AND gate using NAND gates
+- `ORGate.vhd` – OR gate using NAND gates
+- `XORGate.vhd` – XOR gate using NAND gates
+- `HalfAdder.vhd` – Half Adder module
+- `FullAdder.vhd` – Top-level Full Adder module
+- `FullAdderTb.vhd` – Testbench for Full Adder
 
 ## Simulation
 
