@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/ORGate.xst" -ofn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/ORGate.syr" 
+xst -intstyle ise -ifn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/ORGate.xst" -ofn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/ORGate.syr" 

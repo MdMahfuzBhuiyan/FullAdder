@@ -1,0 +1,6 @@
+vhdl work "nandGate.vhd"
+vhdl work "XORGate.vhd"
+vhdl work "ORGate.vhd"
+vhdl work "ANDGate.vhd"
+vhdl work "FullAdder.vhd"
+vhdl work "FullAdderTb.vhd"

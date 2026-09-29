@@ -1,0 +1,5 @@
+work	"ANDGate.vhd"
+work	"FullAdder.vhd"
+work	"ORGate.vhd"
+work	"XORGate.vhd"
+work	"nandGate.vhd"

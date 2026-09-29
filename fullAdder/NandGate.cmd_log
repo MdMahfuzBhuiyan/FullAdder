@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/NandGate.xst" -ofn "/home/mahfuz/VLSI Project 1/fullAdder/fullAdder/NandGate.syr" 
